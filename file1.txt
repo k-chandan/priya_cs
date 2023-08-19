@@ -1,0 +1,30 @@
+File 1 folder
+Hi Priya.
+git ---------Tools
+->Installation
+->create git account
+->set user name and email to git account
+->create branch
+git branch "branch name"
+->if u want to take the code from remote
+git clone remote address
+->to see the branch
+git branch
+
+
+
+1.used to manage/sharing the code
+2. work together
+->terminology
+git init
+->create some files
+git add .  
+#add all fie
+or
+git add file1
+git status
+#to see the changes
+git comit -m "Initial commit"
+#commit the code
+git push origin master
+
