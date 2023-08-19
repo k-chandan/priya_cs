@@ -16,6 +16,7 @@ keep it up
 1.used to manage/sharing the code
 2. work together
 ->terminology
+Git is very useful tool for development
 git init
 ->create some files
 git add .  
