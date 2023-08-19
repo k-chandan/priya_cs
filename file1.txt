@@ -11,7 +11,7 @@ git clone remote address
 ->to see the branch
 git branch
 
-
+keep it up
 
 1.used to manage/sharing the code
 2. work together
