@@ -21,7 +21,7 @@ git init
 git add .  
 #add all fie
 or
-git add file1
+git add file1     (file name)
 git status
 #to see the changes
 git comit -m "Initial commit"
